@@ -1,0 +1,22 @@
+* [33m3479474[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Add large file using gitignore
+[31m|[m .gitignore
+* [33mf44f4a5[m Add large file and track using Git LFS
+[31m|[m .gitattributes
+*   [33m50f3862[m Merge branch 'main' of https://github.com/vanshgithubmain/gith-cicd-tf-workflow
+[32m|[m[33m\[m  
+[32m|[m * [33m411f1cd[m Initial commit
+[32m|[m   README.md
+* [33m083189e[m first commit
+  .github/workflows/main.yaml
+  .terraform.lock.hcl
+  .terraform/modules/modules.json
+  main.tf
+  output.tf
+  provider.tf
+  s3resource/main.tf
+  s3resource/output.tf
+  s3resource/variable.tf
+  terraform.tfstate
+  terraform.tfstate.backup
+  terraform.tfvars
+  variable.tf
