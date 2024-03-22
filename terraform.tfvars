@@ -1,4 +1,4 @@
-region="us-east-1"
+region="eu-north-1"
 
 bucket_name="vansh123"
 
